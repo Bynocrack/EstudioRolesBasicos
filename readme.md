@@ -419,46 +419,15 @@ Git es un sistema de control de versiones distribuido que permite gestionar camb
     - Coroutines / RxJava
   
 ## 11)Links recomendados para capacitación Rol Android
-- **Sin certificaciones**:  
-    - Android Developers - Training (Google)
-    https://developer.android.com/training
-    - Android Basics in Kotlin (Google)
-    https://developer.android.com/courses/android-basics-kotlin/course
-    - Jetpack Compose Pathway (UI moderna)
-    https://developer.android.com/jetpack/compose/tutorial
-    - freeCodeCamp – Android App Development (YouTube)
-    https://www.youtube.com/watch?v=BBWyXo-3JGQ
-- **Con certificación**:  
-    - Google - Android Developer Certification
-    https://developers.google.com/certification/associate-android-developer
-    - Coursera – Meta Android Developer Professional Certificate
-    https://www.coursera.org/professional-certificates/meta-android-developer
-    - Udacity – Android Developer Nanodegree (Google co-created)
-    https://www.udacity.com/course/android-developer-nanodegree--nd801
-    - edX – Professional Certificate in Android App Development (Google)
-    https://www.edx.org/professional-certificate/google-android-app-development
-- **Proyectos completos de ejemplo**:  
-    - GitHub - Android Sample Projects (Google repos)
-    https://github.com/android
-    - Awesome Android Open Source Apps (Lista curada)
-    https://github.com/Mybridge/awesome-android
-    - Jetpack Compose Sample Apps (GitHub)
-    https://github.com/android/compose-samples
-    - AndroidSunflower – App de muestra oficial por Google
-    https://github.com/android/sunflower
-- **Recomendadas por líderes (Microsoft, AWS, Google)
-    - Sitio oficial de Android Developers
-    https://developer.android.com
-    - Android Codelabs (tutoriales prácticos)
-    https://developer.android.com/codelabs
-    - Curso oficial: Crear apps Android con Kotlin + Azure
-    https://learn.microsoft.com/en-us/training/paths/build-android-apps-kotlin/
-    - Desarrollo Android con Xamarin (C#)
-    https://learn.microsoft.com/en-us/xamarin/android/
-    - Documentación: AWS Amplify para Android
-    https://docs.amplify.aws/lib/q/platform/android/
-    - Tutorial oficial: Construye una app Android serverless con Amplify
-    https://aws.amazon.com/getting-started/hands-on/build-serverless-android-app-amplify/
+- **Cursos Gratuitos**
+   -Android Developer Fundamentals (Google) - Curso oficial gratuito
+   -freeCodeCamp Android Development - Master Kotlin & Android - 60 horas de tutoriales completos
+   -Udacity Android Basics - Nanodegree gratuito
+   -Android Developers Documentation - Documentación oficial
+   -Kotlin Bootcamp for Programmers (Google) - Aprende Kotlin desde cero
+   -Android Codelabs (Google) - Tutoriales prácticos paso a paso
+   -Android Jetpack Compose Tutorial - Documentación oficial
+   -Vogella Android Tutorials - Tutoriales gratuitos completos 
 
 ## 12) Pasos a desarrollar
 
@@ -474,7 +443,10 @@ Git es un sistema de control de versiones distribuido que permite gestionar camb
      git clone https://github.com/TioSniperxD/Trabajo-Relaciones-Humanas
      cd EstudioRolesBasicos
      ```
-   - Ver contenido con `dir` (Windows) o `ls` (Linux/Mac)
+   - Ver contenido con `dir` (Windows) o `ls` (Linux/Mac) ejemplo de link https://github.com/jjuarez29/PYTHON01/settings
+
+## Conociendo algo de mermeaid y markdown
+**Mermaid** y **Markdown** son herramientas complementarias pero con propósitos diferentes. Aquí te explico sus diferencias y similitudes:
 
      
 ### 🔹 **Markdown** (`.md`)
@@ -554,4 +526,4 @@ flowchart LR
   Diagramas técnicos, arquitectura, flujos de trabajo.  
 
 ### Mermaid de las diapositivas de los roles
-A continuación, el [enlace al diagrama en Mermaid](https://acortar.link/PAjA5S).
+[Enlace al diagrama en Mermaid]([https://acortar.link/PAjA5S](https://www.mermaidchart.com/app/projects/f5874fce-cb73-4493-bd73-31511908d7c5/diagrams/56548774-b1bf-4cab-bf5f-6c34c402f215/version/v0.1/edit)).
