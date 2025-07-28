@@ -19,47 +19,45 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 
 ## 1) Conceptos Generales para Tener en Cuenta
 
-Al comenzar un proyecto de desarrollo de software, es fundamental tener claros algunos conceptos generales que nos permitirán organizarnos, comunicarnos y trabajar eficientemente como equipo. Aquí algunos de los más importantes:
-
+Cuando se empieza un proyecto de desarrollo de software, resulta clave entender algunos conceptos fundamentales. Estos servirán para organizarnos mejor, mantener una comunicación clara y trabajar de manera eficiente como equipo. Aquí se presentan algunos de los más importantes
 
 -**1.1 Repositorio:**
 
-Es un espacio donde se guarda el código del proyecto. Puede estar en tu máquina local o en una plataforma como GitHub. Permite llevar control de versiones y trabajar en equipo.
-
+Es un lugar destinado a almacenar el código de un proyecto, ya sea en tu computadora o en un servicio en línea como GitHub. Facilita el control de versiones y la colaboración entre varios integrantes del equipo
 
 -**1.2 Control de versiones (Versionamiento):**
 
-Es el proceso de llevar un registro de los cambios realizados en los archivos de código a lo largo del tiempo. Git es una de las herramientas más populares para esto.
+Se trata del procedimiento mediante el cual se mantiene un historial detallado de todas las modificaciones realizadas en los archivos de un proyecto de código a lo largo del tiempo. Este registro permite identificar qué cambios se hicieron, cuándo se efectuaron y quién los llevó a cabo, lo que resulta fundamental para organizar el trabajo en equipo, revertir errores y analizar la evolución del desarrollo. Entre las herramientas más utilizadas para llevar a cabo este proceso destaca Git, reconocida por su eficiencia y popularidad en la industria del software
 
 
 -**1.3 Branches (Ramas):**
 
-Son copias del proyecto principal donde se pueden hacer cambios sin afectar el código base. Ideal para que cada integrante trabaje sin interferencias.
+Son versiones independientes del proyecto principal que permiten realizar modificaciones sin alterar el código original, lo que facilita que cada miembro del equipo trabaje de forma autónoma y sin generar conflictos.
 
 
 -**1.4 Commit:**
 
-Es un registro de los cambios realizados en el proyecto. Cada commit debe tener un mensaje claro que explique qué se modificó.
+Es un historial de las modificaciones hechas en el proyecto. Cada commit incluye un mensaje descriptivo que indica de forma clara qué se cambió.
 
 
 -**1.5 Push y Pull:**
 
-	•	Push: Enviar tus cambios al repositorio remoto (GitHub).
-	•	Pull: Traer los últimos cambios del repositorio remoto a tu computadora.
+	•	"Push": Enviar los cambios al repositorio remoto (GitHub).
+	•	"Pull": Traer los cambios recientes del repositorio remoto a tu computadora.
 
 
 -**1.6 README.md:**
 
-Es un archivo que describe de qué trata el proyecto, cómo usarlo, y quiénes lo desarrollan. Es lo primero que otros ven al entrar al repositorio.
+Es un documento que explica la finalidad del proyecto, su forma de uso y los responsables de su desarrollo. Generalmente, es lo primero que las personas revisan al acceder al repositorio.
 
 
 -**1.7 Comunicación:**
 
-Es esencial definir canales claros (como WhatsApp, Discord o Slack) y reuniones cortas para revisar avances y resolver dudas.
+Es importante establecer medios de comunicación definidos (como WhatsApp, Discord o Slack) y realizar reuniones breves que permitan evaluar el progreso y aclarar cualquier duda.
 
 
 ## 2)Conociendo Git 
-Git es un sistema de control de versiones distribuido que permite gestionar cambios en archivos, guardar el historial del proyecto y trabajar de forma colaborativa sin perder información.
+Git es una herramienta de control de versiones distribuida que facilita la administración de cambios en los archivos, conserva el historial completo del proyecto y permite el trabajo colaborativo sin riesgo de perder información.
 
 **¿En que nos puede ayudar?**
 
@@ -72,16 +70,18 @@ Git es un sistema de control de versiones distribuido que permite gestionar camb
 ## 3) Conociendo Github  
 
 - **Describiendo el uso de repositorio remoto:**  
-  Un repositorio remoto es básicamente una versión del proyecto que está almacenada en internet, en lugar de solo en tu computadora. GitHub es una de las plataformas más usadas para guardar estos repositorios en la nube, lo que permite que cualquier miembro del equipo pueda acceder al código, hacer cambios y colaborar, sin importar dónde se encuentre. 
+  Un repositorio remoto es una copia del proyecto alojada en la nube en lugar de estar únicamente en tu computadora. Plataformas como GitHub son muy utilizadas para este propósito, ya que permiten que cualquier integrante del equipo acceda al código, realice modificaciones y colabore desde cualquier lugar.
 
 - **¿Cómo definimos repositorio?**  
-  Un repositorio (o repo) es un contenedor de archivos y carpetas de un proyecto, incluyendo su historial de versiones. Puede ser:
+  Un repositorio es un contenedor de archivos y carpetas de un proyecto, incluyendo su historial de versiones. Puede ser:
   - **Repositorio local:** el que está en tu computadora.
   - **Repositorio remoto:** el que se encuentra en GitHub.  
     Los repositorios permiten:
-    - Controlar versiones del código.
-    - Revertir cambios si algo sale mal.
-    - Colaborar con otros programadores.
+	-Almacenar el código del proyecto.
+	-Llevar control de versiones de los archivos.
+	-Trabajar en equipo sin interferencias.
+	-Compartir el proyecto fácilmente.
+	-Colaborar de forma remota.
 
 - **¿Cómo configurar para permitir al equipo colaborar?**  
   1. **Crear el repositorio en Git Hub**  
@@ -119,27 +119,28 @@ Git es un sistema de control de versiones distribuido que permite gestionar camb
   - Revisar los Pull Requests: Antes de fusionar ramas, se revisan los cambios para detectar problemas.
 
 **Roles básicos en el desarrollo de aplicaciones web y móviles**  
-- Project Manager: organiza y dirige el trabajo del equipo.  
-- Diseñador UX/UI: se encarga de la experiencia del usuario y la parte visual.  
-- Desarrollador Frontend: programa la interfaz con la que interactúa el usuario.  
-- Desarrollador Backend: maneja la lógica del servidor y las bases de datos.  
-- Tester (QA): verifica que la app funcione correctamente y sin errores.  
-- DevOps: automatiza y gestiona los procesos de desarrollo y despliegue.  
-- Scrum Master: guía al equipo si se trabaja con metodologías ágiles como Scrum.
+* **Project Manager:** coordina, planifica y supervisa las tareas del equipo de desarrollo.
+* **Diseñador UX/UI:** diseña la experiencia de uso y la apariencia visual del producto.
+* **Desarrollador Frontend:** implementa la parte visual y funcional con la que interactúa el usuario.
+* **Desarrollador Backend:** desarrolla la lógica interna, el manejo de datos y la comunicación con el servidor.
+* **Tester (QA):** prueba la aplicación para asegurar su correcto funcionamiento y detectar errores.
+* **DevOps:** optimiza, automatiza y administra los procesos de desarrollo, integración y despliegue.
+* **Scrum Master:** facilita el trabajo del equipo en metodologías ágiles, promoviendo buenas prácticas y resolución de obstáculos.
 
 
 ## 4) Desarrollador Frontend
 
 - **Descripción del rol:**  
-  El frontend se involucra en todo aquello que el usuario ve, es decir la parte visual e interactiva de las applicaciones, productos y servicios digitales. Se enfoca en atraer al usuario con un diseño atractivo, accesible y con un rendimiento optimo en distintas plataformas y navegadores, en escencia el forntend se encarga del interfaz de usuario(IU).
+  El frontend abarca todo lo que el usuario percibe y utiliza directamente en una aplicación, producto o servicio digital. Se centra en crear interfaces visuales e interactivas que resulten atractivas, fáciles de usar y con un desempeño eficiente en diferentes dispositivos y navegadores. En esencia, el frontend se ocupa del diseño y funcionamiento de la interfaz de usuario (UI).
 
 - **Habilidades requeridas:**
-  - Dominio de HTML, CSS, JavaScript.
-  - Experiencia don frameworks/librerías como React,Vue.js o Angular.
-  - Conocimiento en manejo de APIs REST o GraphQL.
-  - Buenas prácticas en accesibilidad web(a11y).
-  - Uso de control de versiones como Git.
-  - Pruebas en frontend: Jest, Testing Library, Cypress.
+	* **Conocimiento sólido de HTML, CSS y JavaScript.**
+	* **Manejo de frameworks o librerías** como React, Vue.js o Angular.
+	* **Experiencia en la integración y consumo de APIs** REST o GraphQL.
+	* **Aplicación de buenas prácticas de accesibilidad web** (a11y).
+	* **Uso de herramientas de control de versiones**, como Git.
+	* **Realización de pruebas en frontend** con Jest, Testing Library o Cypress.
+
 
 - **Relación con otros roles:**
   - *Backend:* se comunican a través de APIs, donde el frontend puede solicitar al backend alguna lista de productos o alguna comfirmación para guardar información de un usuario, para asegurar una comunicación fluida ambos definen que datos intercambiarán, en que formato y que errores pueden ocurrir.
