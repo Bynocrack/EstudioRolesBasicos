@@ -421,31 +421,43 @@ Git es una herramienta de control de versiones distribuida que facilita la admin
   
 ## 11)Links recomendados para capacitación Rol Android
 
--**📚 Cursos Gratuitos adicionales **
-	 -Google Android Basics with Compose – Curso actualizado basado en Jetpack Compose (Google).
-	-Kotlin Bootcamp for Programmers – Curso gratuito y oficial de Google.
-	-CS50’s Mobile App Development with React Native (Harvard) – Aunque usa React Native, sirve para ampliar conocimiento en desarrollo móvil.
-	-Codecademy: Learn Kotlin – Interactivo y gratuito (requiere cuenta).
-	-JetBrains Academy (Kotlin Track) – Curso guiado con proyectos, opción gratuita disponible.
-	-Coursera: Android App Development for Beginners – Cursos gratuitos auditando (sin certificado).
--**📖 Documentación y Tutoriales Oficiales **
-	-Android Developers Guides – Guía oficial completa.
-	-Kotlin Lang Documentation – Documentación oficial del lenguaje Kotlin.
-	-Jetpack Compose Documentation – Todo lo nuevo sobre Compose.
-	-Material Design Guidelines – Guía oficial para interfaces de usuario.
--**🛠️ Playgrounds y prácticas interactivas **
-	-Kotlin Playground – Ejecuta código Kotlin desde el navegador.
-	-Exercism Kotlin Track – Ejercicios guiados con mentoría opcional.
-	-Android Codelabs – Talleres paso a paso de Android y Compose.
--**🧑‍💻 Canales de YouTube recomendados **
-	-Philipp Lackner – Jetpack Compose y arquitectura moderna.
-	-Coding in Flow – Android, MVVM, Room, Retrofit.
-	-Stevdza-San – Compose, Firebase, Clean Architecture.
--**📦 Proyectos para practicar **
-	-GitHub - Android Samples (Google) – Proyecto oficial de ejemplo con buenas prácticas.
-	-Jetpack Compose Samples – Proyectos abiertos de Compose.
-	-Awesome Android (GitHub list) – Lista gigante de recursos Android.
+**Cursos Gratuitos adicionales**
+* Google Android Basics with Compose – Curso actualizado basado en Jetpack Compose (Google).
+* Kotlin Bootcamp for Programmers – Curso gratuito y oficial de Google.
+* CS50's Mobile App Development with React Native (Harvard) – Aunque usa React Native, sirve para ampliar conocimiento en desarrollo móvil.
+* Codecademy: Learn Kotlin – Interactivo y gratuito (requiere cuenta).
+* JetBrains Academy (Kotlin Track) – Curso guiado con proyectos, opción gratuita disponible.
+* Coursera: Android App Development for Beginners – Cursos gratuitos auditando (sin certificado).
+* EDteam: Curso Android desde cero 2023 - Domina los fundamentos de Android y crea tu primera aplicación móvil (comienza gratis).
+* Aprender Gratis: Curso gratuito para programar Android en Kotlin.
+* Aulaclic: Curso de Android y Kotlin desde cero (lista de YouTube).
 
+**Documentación y Tutoriales Oficiales**
+* Android Developers Guides – Guía oficial completa.
+* Kotlin Lang Documentation – Documentación oficial del lenguaje Kotlin.
+* Jetpack Compose Documentation – Todo lo nuevo sobre Compose.
+* Material Design Guidelines – Guía oficial para interfaces de usuario.
+* Android Studio Documentation - Documentación oficial del IDE.
+* Documentación de fuentes del SO Android - Para entender la plataforma a fondo.
+
+**Playgrounds y prácticas interactivas**
+* Kotlin Playground – Ejecuta código Kotlin desde el navegador.
+* Exercism Kotlin Track – Ejercicios guiados con mentoría opcional.
+* Android Codelabs – Talleres paso a paso de Android y Compose (ej: "Cómo crear tu primera app para Android").
+
+**Canales de YouTube recomendados**
+* Philipp Lackner – Jetpack Compose y arquitectura moderna.
+* Coding in Flow – Android, MVVM, Room, Retrofit.
+* Stevdza-San – Compose, Firebase, Clean Architecture.
+* The Coding Train (Daniel Schiffman) - Contenido creativo sobre programación (en inglés, con subtítulos).
+* FreeCodeCamp.org (en español) - Cursos completos sobre desarrollo web y móvil.
+* Soy Dalto - Canal en español con contenido de programación básica, desarrollo web y más.
+
+**Proyectos para practicar**
+* GitHub – Android Samples (Google) – Proyecto oficial de ejemplo con buenas prácticas.
+* Jetpack Compose Samples – Proyectos abiertos de Compose.
+* Awesome Android (GitHub list) – Lista gigante de recursos Android.
+* Proyectos de Codelabs como "App de Water Me!" (aunque algunos pueden estar desactualizados, son buenos para practicar).
 ## 12) Pasos a desarrollar
 
 1. **Integrante 0** crea repositorio remoto: `Trabajo-Relaciones-Humanas`  
