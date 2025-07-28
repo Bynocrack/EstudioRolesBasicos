@@ -420,48 +420,31 @@ Git es una herramienta de control de versiones distribuida que facilita la admin
     - Coroutines / RxJava
   
 ## 11)Links recomendados para capacitación Rol Android
+
 📚 Cursos Gratuitos adicionales
-Google Android Basics with Compose – Curso actualizado basado en Jetpack Compose (Google).
-
-Kotlin Bootcamp for Programmers – Curso gratuito y oficial de Google.
-
-CS50’s Mobile App Development with React Native (Harvard) – Aunque usa React Native, sirve para ampliar conocimiento en desarrollo móvil.
-
-Codecademy: Learn Kotlin – Interactivo y gratuito (requiere cuenta).
-
-JetBrains Academy (Kotlin Track) – Curso guiado con proyectos, opción gratuita disponible.
-
-Coursera: Android App Development for Beginners – Cursos gratuitos auditando (sin certificado).
-
+-Google Android Basics with Compose – Curso actualizado basado en Jetpack Compose (Google).
+-Kotlin Bootcamp for Programmers – Curso gratuito y oficial de Google.
+-CS50’s Mobile App Development with React Native (Harvard) – Aunque usa React Native, sirve para ampliar conocimiento en desarrollo móvil.
+-Codecademy: Learn Kotlin – Interactivo y gratuito (requiere cuenta).
+-JetBrains Academy (Kotlin Track) – Curso guiado con proyectos, opción gratuita disponible.
+-Coursera: Android App Development for Beginners – Cursos gratuitos auditando (sin certificado).
 📖 Documentación y Tutoriales Oficiales
-Android Developers Guides – Guía oficial completa.
-
-Kotlin Lang Documentation – Documentación oficial del lenguaje Kotlin.
-
-Jetpack Compose Documentation – Todo lo nuevo sobre Compose.
-
-Material Design Guidelines – Guía oficial para interfaces de usuario.
-
+-Android Developers Guides – Guía oficial completa.
+-Kotlin Lang Documentation – Documentación oficial del lenguaje Kotlin.
+-Jetpack Compose Documentation – Todo lo nuevo sobre Compose.
+-Material Design Guidelines – Guía oficial para interfaces de usuario.
 🛠️ Playgrounds y prácticas interactivas
-Kotlin Playground – Ejecuta código Kotlin desde el navegador.
-
-Exercism Kotlin Track – Ejercicios guiados con mentoría opcional.
-
-Android Codelabs – Talleres paso a paso de Android y Compose.
-
+-Kotlin Playground – Ejecuta código Kotlin desde el navegador.
+-Exercism Kotlin Track – Ejercicios guiados con mentoría opcional.
+-Android Codelabs – Talleres paso a paso de Android y Compose.
 🧑‍💻 Canales de YouTube recomendados
-Philipp Lackner – Jetpack Compose y arquitectura moderna.
-
-Coding in Flow – Android, MVVM, Room, Retrofit.
-
-Stevdza-San – Compose, Firebase, Clean Architecture.
-
+-Philipp Lackner – Jetpack Compose y arquitectura moderna.
+-Coding in Flow – Android, MVVM, Room, Retrofit.
+-Stevdza-San – Compose, Firebase, Clean Architecture.
 📦 Proyectos para practicar
-GitHub - Android Samples (Google) – Proyecto oficial de ejemplo con buenas prácticas.
-
-Jetpack Compose Samples – Proyectos abiertos de Compose.
-
-Awesome Android (GitHub list) – Lista gigante de recursos Android.
+-GitHub - Android Samples (Google) – Proyecto oficial de ejemplo con buenas prácticas.
+-Jetpack Compose Samples – Proyectos abiertos de Compose.
+-Awesome Android (GitHub list) – Lista gigante de recursos Android.
 
 ## 12) Pasos a desarrollar
 
