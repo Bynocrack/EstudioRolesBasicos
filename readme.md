@@ -4,12 +4,18 @@
 https://docs.github.com/es/get-started/start-your-journey/git-and-github-learning-resources
 ## 0) Integrantes del equipo de estudio y sus responsabilidades en el repositorio *(actualizar)*
 
-0. José Jiménez - josej@unsa.edu.pe  
-1. Luis  
-2. Pedro  
-3. María  
-...  
-12. 
+0. MADUEÑO/MACEDO, JOSUE ALEXANDER - FRONTEND
+1. MACEDO/OROZCO, JAFET JOSHUA - FRONTEND
+2. VARGAS/PAYTAN, DAVID IGNACIO - FRONTEND
+3. GUEVARA/ALIAGA, OMAR ANDREE - BACKEND
+4. CARRUITERO/ZEA, PIERO - BACKEND
+5. PAUCA/TITO, EDSON JOAO - BACKEND
+6. CAMERO/ELGUERA, JOSUE ENRIQUE - ANDROID
+7. MANRIQUE/SUPANTA, RONALD WILMER - ANDROID
+8. LUDEÑA/DAZA, JOSÉ RAÚL - ANDROID
+9. ILLACHURA/GALDÓS, ROY PAUL - QA
+10. CAHUANA/VERA, DIEGO JOAQUIN - QA
+11. APAZA/CHAMBI, WILLIAM ELMER - QA
 
 ## 1) Conceptos Generales para Tener en Cuenta
 
