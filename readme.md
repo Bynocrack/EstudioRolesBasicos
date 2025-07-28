@@ -420,44 +420,45 @@ Git es una herramienta de control de versiones distribuida que facilita la admin
     - Coroutines / RxJava
   
 ## 11)Links recomendados para capacitación Rol Android
+## 11) Links recomendados para capacitación Rol Android
 
 **Cursos Gratuitos adicionales**
-* Google Android Basics with Compose – Curso actualizado basado en Jetpack Compose (Google).
-* Kotlin Bootcamp for Programmers – Curso gratuito y oficial de Google.
-* CS50's Mobile App Development with React Native (Harvard) – Aunque usa React Native, sirve para ampliar conocimiento en desarrollo móvil.
-* Codecademy: Learn Kotlin – Interactivo y gratuito (requiere cuenta).
-* JetBrains Academy (Kotlin Track) – Curso guiado con proyectos, opción gratuita disponible.
-* Coursera: Android App Development for Beginners – Cursos gratuitos auditando (sin certificado).
-* EDteam: Curso Android desde cero 2023 - Domina los fundamentos de Android y crea tu primera aplicación móvil (comienza gratis).
-* Aprender Gratis: Curso gratuito para programar Android en Kotlin.
-* Aulaclic: Curso de Android y Kotlin desde cero (lista de YouTube).
+* **Google Android Basics with Compose:** [https://developer.android.com/courses/android-basics-compose/course](https://developer.android.com/courses/android-basics-compose/course)
+* **Kotlin Bootcamp for Programmers:** [https://developer.android.com/courses/kotlin-bootcamp](https://developer.android.com/courses/kotlin-bootcamp)
+* **CS50's Mobile App Development with React Native (Harvard):** [https://www.edx.org/cs50](https://www.edx.org/cs50) (Busca "CS50's Mobile App Development with React Native" dentro de los cursos de CS50)
+* **Codecademy: Learn Kotlin:** [https://www.codecademy.com/learn/learn-kotlin](https://www.codecademy.com/learn/learn-kotlin)
+* **JetBrains Academy (Kotlin Track):** [https://www.jetbrains.com/academy/](https://www.jetbrains.com/academy/) (Busca la pista de Kotlin)
+* **Coursera: Android App Development for Beginners:** [https://www.coursera.org/learn/android-app](https://www.coursera.org/learn/android-app)
+* **EDteam: Curso Android desde cero 2023 - Domina los fundamentos de Android y crea tu primera aplicación móvil (comienza gratis):** [https://ed.team/cursos/android](https://ed.team/cursos/android)
+* **Aprender Gratis: Curso gratuito para programar Android en Kotlin:** [https://aprendergratis.es/cursos-online/curso-programar-android-en-kotlin/](https://aprendergratis.es/cursos-online/curso-programar-android-en-kotlin/)
+* **Aulaclic: Curso de Android y Kotlin desde cero (lista de YouTube):** [https://www.aulaclic.es/seleccion-cursos/android_0_1.htm](https://www.aulaclic.es/seleccion-cursos/android_0_1.htm) (Busca la sección de Android)
 
 **Documentación y Tutoriales Oficiales**
-* Android Developers Guides – Guía oficial completa.
-* Kotlin Lang Documentation – Documentación oficial del lenguaje Kotlin.
-* Jetpack Compose Documentation – Todo lo nuevo sobre Compose.
-* Material Design Guidelines – Guía oficial para interfaces de usuario.
-* Android Studio Documentation - Documentación oficial del IDE.
-* Documentación de fuentes del SO Android - Para entender la plataforma a fondo.
+* **Android Developers Guides:** [https://developer.android.com/docs](https://developer.android.com/docs)
+* **Kotlin Lang Documentation:** [https://kotlinlang.org/docs/home.html](https://kotlinlang.org/docs/home.html)
+* **Jetpack Compose Documentation:** [https://developer.android.com/develop/ui/compose/documentation](https://developer.android.com/develop/ui/compose/documentation)
+* **Material Design Guidelines:** [https://m2.material.io/design](https://m2.material.io/design) (Para Material Design 2) o [https://m3.material.io/](https://m3.material.io/) (Para Material Design 3, la versión más reciente)
+* **Android Studio Documentation:** [https://developer.android.com/studio/intro](https://developer.android.com/studio/intro)
+* **Documentación de fuentes del SO Android:** [https://source.android.com/docs](https://source.android.com/docs)
 
 **Playgrounds y prácticas interactivas**
-* Kotlin Playground – Ejecuta código Kotlin desde el navegador.
-* Exercism Kotlin Track – Ejercicios guiados con mentoría opcional.
-* Android Codelabs – Talleres paso a paso de Android y Compose (ej: "Cómo crear tu primera app para Android").
+* **Kotlin Playground:** [https://play.kotlinlang.org/](https://play.kotlinlang.org/)
+* **Exercism Kotlin Track:** [https://exercism.org/tracks/kotlin](https://exercism.org/tracks/kotlin)
+* **Android Codelabs:** [https://developer.android.com/get-started/codelabs](https://developer.android.com/get-started/codelabs)
 
 **Canales de YouTube recomendados**
-* Philipp Lackner – Jetpack Compose y arquitectura moderna.
-* Coding in Flow – Android, MVVM, Room, Retrofit.
-* Stevdza-San – Compose, Firebase, Clean Architecture.
-* The Coding Train (Daniel Schiffman) - Contenido creativo sobre programación (en inglés, con subtítulos).
-* FreeCodeCamp.org (en español) - Cursos completos sobre desarrollo web y móvil.
-* Soy Dalto - Canal en español con contenido de programación básica, desarrollo web y más.
+* **Philipp Lackner:** [https://www.youtube.com/@PhilippLackner](https://www.youtube.com/@PhilippLackner)
+* **Coding in Flow:** [https://www.youtube.com/@codinginflow](https://www.youtube.com/@codinginflow)
+* **Stevdza-San:** [https://www.youtube.com/@StevdzaSan](https://www.youtube.com/@StevdzaSan)
+* **The Coding Train (Daniel Schiffman):** [https://www.youtube.com/@TheCodingTrain](https://www.youtube.com/@TheCodingTrain)
+* **FreeCodeCamp.org (en español):** [https://www.youtube.com/@freecodecampes](https://www.youtube.com/@freecodecampes)
+* **Soy Dalto:** [https://www.youtube.com/@SoyDalto](https://www.youtube.com/@SoyDalto)
 
 **Proyectos para practicar**
-* GitHub – Android Samples (Google) – Proyecto oficial de ejemplo con buenas prácticas.
-* Jetpack Compose Samples – Proyectos abiertos de Compose.
-* Awesome Android (GitHub list) – Lista gigante de recursos Android.
-* Proyectos de Codelabs como "App de Water Me!" (aunque algunos pueden estar desactualizados, son buenos para practicar).
+* **GitHub – Android Samples (Google):** [https://github.com/android/samples](https://github.com/android/samples)
+* **Jetpack Compose Samples:** [https://github.com/android/compose-samples](https://github.com/android/compose-samples)
+* **Awesome Android (GitHub list):** [https://github.com/JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) (Hay varias, esta es una de las más conocidas)
+* **Proyectos de Codelabs como "App de Water Me!":** [https://developer.android.com/codelabs/basic-android-kotlin-training-project-water-me](https://developer.android.com/codelabs/basic-android-kotlin-training-project-water-me) (Ten en cuenta que algunos codelabs pueden estar marcados como "desactualizados" pero siguen siendo útiles para entender conceptos básicos).
 ## 12) Pasos a desarrollar
 
 1. **Integrante 0** crea repositorio remoto: `Trabajo-Relaciones-Humanas`  
