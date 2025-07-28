@@ -419,9 +419,7 @@ Git es una herramienta de control de versiones distribuida que facilita la admin
     - Firebase (Auth, Realtime Database, Cloud Messaging)
     - Coroutines / RxJava
   
-## 11)Links recomendados para capacitación Rol Android
 ## 11) Links recomendados para capacitación Rol Android
-
 **Cursos Gratuitos adicionales**
 * **Google Android Basics with Compose:** [https://developer.android.com/courses/android-basics-compose/course](https://developer.android.com/courses/android-basics-compose/course)
 * **Kotlin Bootcamp for Programmers:** [https://developer.android.com/courses/kotlin-bootcamp](https://developer.android.com/courses/kotlin-bootcamp)
