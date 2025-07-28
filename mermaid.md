@@ -1,6 +1,5 @@
 ```mermaid
 graph TD;
-   graph TD;
     A[Desarrollo de Software]
 
     A --> FE[FrontEnd]
